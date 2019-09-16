@@ -1,0 +1,2 @@
+﻿  Main.cpp
+C:\Users\지수\Downloads\컴그텀프\규나니의 날아라 세모\MapEditer\Main.cpp(10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glut.h': No such file or directory
